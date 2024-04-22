@@ -25,7 +25,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: ${{ steps.change-page-url.outputs.new_page_url }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -43,3 +43,6 @@ jobs:
         with:
           # Specify the base URL for your GitHub Pages site
           base_url: 'https://varshamohan08.github.io/portfolio/'
+      - name: Override page_url
+        id: change-page-url
+        run: echo "new_page_url=${{ steps.deployment.outputs.page_url }}portfolio/" >> $GITHUB_OUTPUT
