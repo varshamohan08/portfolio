@@ -36,7 +36,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           # Upload entire repository
-          path: '.'
+          path: 'https://varshamohan08.github.io/portfolio'
           exclude: 'node_modules' # Exclude node_modules directory if present
       - name: Deploy to GitHub Pages
         id: deployment
