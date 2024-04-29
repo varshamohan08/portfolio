@@ -6107,3 +6107,6 @@ p {
 [dir=rtl] .style-switcher .t-ltr-light {
   display: inline-block;
 }
+.letter-spacing-1 {
+  letter-spacing: 1px;
+}
