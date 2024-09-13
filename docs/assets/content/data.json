@@ -15,6 +15,14 @@
             "companyName": "Quest Innovative Solutions",
             "location": "Kadavanthra, Cochin, Kerala",
             "description": "Gained proficiency in Python basics and MySQL database management.<br> Crafted efficient codebase, following best practices in Python Django and Angular development.<br>"
+        },
+        {
+            "date": "October 2020 - April 2021",
+            "role": "Trainee Software Engineer",
+            "companyUrl": "https://qis.co.in/",
+            "companyName": "Quest Innovative Solutions",
+            "location": "Kadavanthra, Cochin, Kerala",
+            "description": "Gained proficiency in Python basics and MySQL database management.<br> Crafted efficient codebase, following best practices in Python Django and Angular development.<br>"
         }
     ],
     "education": [
