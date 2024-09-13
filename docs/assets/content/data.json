@@ -1,0 +1,86 @@
+{
+    "experience": [
+        {
+            "date": "June 2021 - July 2023",
+            "role": "Software Developer",
+            "companyUrl": "https://travidux.com/",
+            "companyName": "Travidux Technologies",
+            "location": "Chalakudy, Thrissur, Kerala",
+            "description": "Optimized development processes by collaborating on backend and frontend design and coding.<br> Directed a team for data-driven decision-making and process enhancement. Performed bug fixes to ensure software stability and performance.<br> Engineered robust PostgreSQL database solutions for enhanced performance and data integrity.<br> Contributed actively to all phases of software releases, from planning to deployment.<br>"
+        },
+        {
+            "date": "October 2020 - April 2021",
+            "role": "Trainee Software Engineer",
+            "companyUrl": "https://qis.co.in/",
+            "companyName": "Quest Innovative Solutions",
+            "location": "Kadavanthra, Cochin, Kerala",
+            "description": "Gained proficiency in Python basics and MySQL database management.<br> Crafted efficient codebase, following best practices in Python Django and Angular development.<br>"
+        }
+    ],
+    "education": [
+        {
+            "batch": "2016-2020",
+            "specialization": "BTech in Computer Science and engineering",
+            "college": "Gurudeva Institute of Science And Technology"
+        },
+        {
+            "batch": "2014-2016",
+            "specialization": "Higher Secondary",
+            "college": "St. Mary's Higher Secondary School"
+        }
+    ],
+    "skills": {
+        "Languages": ["Python", "Typescript"],
+        "Web Designing": ["HTML", "CSS"],
+        "Open Source Project": ["GitLab", "GitHub"],
+        "Database": ["PostgreSQL", "MySQL"],
+        "Frameworks": ["Django", "Angular", "Bootstrap", "Ionic"]
+    },
+    "certifications": [
+        {
+            "date": "Completed on September, 2024",
+            "title": "Data Science Fundamentals with Python and SQL by IBM",
+            "platform": "Coursera",
+            "description": "<ul class=\"list-unstyled text-muted mt-3\"><h6>Course Certificates Completed</h6><li class=\"mb-1\"><span class=\"h5 me-1\"><i class=\"uil uil-check-circle align-middle\" style=\"font-size: large;\"></i></span>Statistics for Data Science with Python</li><li class=\"mb-1\"><span class=\"h5 me-1\"><i class=\"uil uil-check-circle align-middle\" style=\"font-size: large;\"></i></span>Tools for Data Science</li><li class=\"mb-1\"><span class=\"h5 me-1\"><i class=\"uil uil-check-circle align-middle\" style=\"font-size: large;\"></i></span>Python Project for Data Science</li><li class=\"mb-1\"><span class=\"h5 me-1\"><i class=\"uil uil-check-circle align-middle\" style=\"font-size: large;\"></i></span>Python for Data Science, AI & Development</li><li class=\"mb-1\"><span class=\"h5 me-1\"><i class=\"uil uil-check-circle align-middle\" style=\"font-size: large;\"></i></span>Databases and SQL for Data Science with Python</li></ul>",
+            "certificate": "https://coursera.org/share/671ac6699446ff8bf6ef0a43468b9a01"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Hardware Service Management System",
+            "category": "professional",
+            "type": "Website",
+            "description": "Designed and implemented a hardware service monitoring and follow-up application to streamline customer service requests for hardware devices.<br>Introduced features for assigning technicians, tracking progress, and providing timely updates to customers.<br>Enhanced business efficiency, resulting in a 20% increase in customer satisfaction.",
+            "company": "Travidux Technologies",
+            "technologies": "Django, Angular, PostgreSQL, GitLab",
+            "repo": null
+        },
+        {
+            "title": "Point Of Sales (POS)",
+            "category": "professional",
+            "type": "Website",
+            "description": "Created POS software to automate functions such as invoice generation, stock maintenance, and accounting for transactions.<br>Improved sales operations by streamlining transaction management and inventory handling.<br>Increased accounting accuracy, leading to a 25% reduction in accounting errors.",
+            "company": "Travidux Technologies",
+            "technologies": "Django, Angular, PostgreSQL, GitLab",
+            "repo": null
+        },
+        {
+            "title": "Enquiry Track",
+            "category": "professional",
+            "type": "Mobile App",
+            "description": "Designed and developed the Enquiry Track mobile app to assist in managing clients and business activities on-the-go.<br>Transformed smartphones into personal sales assistants, leading to a 30% increase in sales inquiries.<br>Enhanced productivity, reducing response time to client inquiries by 25%.",
+            "company": "Travidux Technologies",
+            "technologies": "Django, Ionic, PostgreSQL, GitLab",
+            "repo": null
+        },
+        {
+            "title": "Ride Request System",
+            "category": "personal",
+            "type": "Website",
+            "description": "This is the foundational structure for a Ride Booking System, encompassing both frontend and backend components. The system enables users to sign up, log in, and manage their profiles, facilitating the seamless request and completion of rides for a fair.<br>While the project is at its nascent stage, it serves as a comprehensive starting point for further enhancements and feature integrations.<br>Through subsequent iterations, additional functionalities, such as enhanced user authentication, robust ride management capabilities, and refined user experiences, can be developed to create a fully-fledged ride booking platform.",
+            "company": null,
+            "technologies": "Django, Angular, PostgreSQL, GitHub",
+            "repo": "https://github.com/varshamohan08/ride_booking_system"
+        }
+    ]
+}
