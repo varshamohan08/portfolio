@@ -82,5 +82,6 @@
             "technologies": "Django, Angular, PostgreSQL, GitHub",
             "repo": "https://github.com/varshamohan08/ride_booking_system"
         }
-    ]
+    ],
+    "credits": "Inspired by design concepts from Pinterest and developed using Visual Studio Code with Angular 18. Deployed with GitHub Pages. Styled with custom CSS, Bootstrap 5, and Angular Material, along with Google Fonts to create this portfolio."
 }

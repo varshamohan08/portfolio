@@ -6110,3 +6110,8 @@ p {
 .letter-spacing-1 {
   letter-spacing: 1px;
 }
+
+.stickman-img {
+  width: 40% !important; 
+  filter: contrast(0.5);
+}
