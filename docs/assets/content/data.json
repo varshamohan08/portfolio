@@ -55,6 +55,15 @@
     ],
     "projects": [
         {
+            "title": "Transposys – Logistics & Transportation Management System",
+            "category": "professional",
+            "type": "Website",
+            "description": "Developed and optimized backend logic, created RESTful APIs, and managed PostgreSQL database structures.<br>Handled server deployments and release management, ensuring smooth production rollouts.<br>Collaborated with cross-functional teams to meet delivery timelines and participated in client meetings to gather requirements.<br>Integrated real-time GPS and vehicle tracking features to improve operational visibility and logistics efficiency.",
+            "company": "Travidux Technologies",
+            "technologies": "Django, Angular, PostgreSQL, GitLab",
+            "repo": null
+        },
+        {
             "title": "Hardware Service Management System",
             "category": "professional",
             "type": "Website",
