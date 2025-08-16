@@ -1,12 +1,21 @@
 {
     "experience": [
         {
+            "date": "January 2025 - Present",
+            "role": "Senior Python Developer",
+            "companyUrl": "https://cignes.com/",
+            "companyName": "Cignes Business Solutions",
+            "location": "Palayam, Kozhikode, Kerala",
+            "description": "Spearheading backend development with a strong focus on Python Django and PostgreSQL.<br> Collaborating with frontend teams to integrate APIs and ensure smooth data flow.<br> Leading release planning, deployments, and communicating directly with clients to gather requirements and provide solutions.<br> Mentoring team members, assigning tasks, and ensuring delivery timelines.<br> Performing bug fixes and system optimizations to maintain stability and scalability.<br>"
+        },
+        {
             "date": "June 2021 - July 2023",
             "role": "Software Developer",
             "companyUrl": "https://travidux.com/",
             "companyName": "Travidux Technologies",
             "location": "Chalakudy, Thrissur, Kerala",
-            "description": "Optimized development processes by collaborating on backend and frontend design and coding.<br> Directed a team for data-driven decision-making and process enhancement. Performed bug fixes to ensure software stability and performance.<br> Engineered robust PostgreSQL database solutions for enhanced performance and data integrity.<br> Contributed actively to all phases of software releases, from planning to deployment.<br>"
+            "description": "Worked as a full-stack developer, handling both backend (Django, PostgreSQL) and frontend (Angular) development.<br> Acted as a team lead, guiding developers in delivering scalable applications.<br> Designed and implemented RESTful APIs for seamless integration between systems.<br> Contributed to bug fixing, testing, and optimization for production stability.<br> Engaged in client discussions, requirements gathering, and delivery planning.<br>"
+  },
         },
         {
             "date": "October 2020 - April 2021",
